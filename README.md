@@ -19,9 +19,8 @@ These are descriptive results from the supplied dataset. They do not establish c
 | `Customer_Shopping_Behavior_Analysis.ipynb` | Data preparation and analysis notebook |
 | `customer_behavior_sql_queries.sql` | Ten analysis queries written for MySQL 8.0 or later |
 | `customer_behavior_dashboard_final.pbix` | Editable Power BI report |
-| `Customer_Behavior_Dashboard_Landscape.pdf` | Readable landscape export of both dashboard pages |
 | `Customer_Behavior_Dashboard.pdf` | Direct Power BI PDF export |
-| `Customer_Shopping_Behavior_Analysis_Report_Corrected.pdf` | Written analysis report |
+| `Customer_Shopping_Behavior_Analysis_Report.pdf` | Written analysis report |
 | `Customer_Shopping_Behavior_Analysis_Portfolio_Presentation.pptx` | Editable presentation deck  |
 
 ## Reproduce the analysis

@@ -11,6 +11,16 @@ An end-to-end customer shopping analysis using Python, MySQL, and Power BI. The 
 
 These are descriptive results from the supplied dataset. They do not establish cause and effect.
 
+## Key Findings
+
+- Clothing had the largest recorded purchase amount: **$104,264** across **1,737** customer records (44.7% of the total).
+- Average purchase amount varied by **$2.27** across shipping types, from **$58.46** for Standard to **$60.73** for 2-Day Shipping.
+- Subscribers averaged **$59.49** per customer record, compared with **$59.87** for non-subscribers.
+- Fall had the highest recorded seasonal amount (**$60,018**) and Summer the lowest (**$55,777**). The dataset has no dates, so this is a season-label comparison, not a time trend.
+- Gloves had the highest average review rating among the five top-rated products (**3.86/5**).
+
+These are descriptive comparisons; they do not establish cause and effect.
+
 ## Files
 
 | File | Description |
